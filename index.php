@@ -26,7 +26,7 @@
     <main>
 
         <hr>
-
+        <?php echo ">>> CONTEÚDO AQUI <<<" ?>
         <hr>
 
     </main>
