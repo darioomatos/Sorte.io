@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <link rel="stylesheet" href="/assets/style.css">
 
-    <title>Sorte.io | Quem será o escolhido?</title>
+    <title> Sorte.io | Quem será o escolhido? </title>
 
     <script src="/assets/checkNames.js"></script>
     <script src="/assets/actionJS.js"></script>
@@ -26,7 +26,9 @@
     <main>
 
         <hr>
-        <?php echo ">>> CONTEÚDO AQUI <<<" ?>
+        <!-- <?php echo ">>> CONTEÚDO AQUI <<<" ?> -->
+
+        <?php include('includes/body_main_form_page.php');  ?>
         <hr>
 
     </main>

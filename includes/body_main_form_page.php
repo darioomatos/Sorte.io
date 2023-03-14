@@ -1,11 +1,20 @@
-<h1>Sorte.io</h1>
 
-<form id="formMain" method="post">
-    <label for="nome">Nome:</label>
-    <input type="text" id="nome" name="nome">
-    <button type="submit">Salvar</button>
-</form>
-<button id="sortear">Sortear</button>
+<div class='w3-container'>
+        
+    <div class='w3-container w3-blue'>
+        <h1> Sorte.io </h1>
+    </div>
+        <br>
+        <form class='w3-container' id="form_main" method="post">
+            <label>Nome:</label>
+            
+            <input class='w3-input' type="text" id="form_nome" name="nome">
+            <br>       
+            <button id="btn_sortear" type"submit">Sortear</button>
+            <button type="submit">Salvar</button>
+        </form>
+     </div>
+</div>
 
 <div id="resultado"></div>
 
