@@ -26,7 +26,7 @@
     <main>
 
         <hr>
-        <!-- <?php echo ">>> CONTEÚDO AQUI <<<" ?> -->
+        <?php echo ">>> CONTEÚDO AQUI <<<" ?> 
 
         <?php include('includes/body_main_form_page.php');  ?>
         <hr>
